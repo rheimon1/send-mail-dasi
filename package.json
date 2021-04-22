@@ -1,0 +1,13 @@
+{
+  "name": "sendmail-dasiusp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.5.0"
+  }
+}
